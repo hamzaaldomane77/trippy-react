@@ -1,0 +1,20 @@
+.SecationCard .pup{
+    display: flex;
+    color: rgb(5, 5, 27);
+    margin: 0 auto;
+text-align: center;
+    flex-wrap: wrap;
+   
+    
+   
+  }
+.SecationCard .pup{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    margin: 30px;
+}
+.SecationCard{
+    text-align: center;
+}

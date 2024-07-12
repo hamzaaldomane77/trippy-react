@@ -1,0 +1,11 @@
+
+.popular .container{
+    display: flex;
+    margin: 50px auto;
+    text-align: center;
+
+}
+.popular .titel{
+    text-align: center;
+   padding-top: 20px;
+}

@@ -1,0 +1,25 @@
+.popular .titel{
+    width: max-content;
+    margin: 0 auto;
+    width: 80vw;
+    justify-content: space-between;
+}
+.popular .titel .images{
+    display: flex;
+    width: 49%;
+    justify-content: space-between;
+}
+.popular .container .text{
+    width: 49%;
+}
+.popular .titel .images img{
+    width: 49%;
+}
+.popular .titel .images img:nth-child(2){
+position: relative;
+top:-20px ;
+border-radius: 7px;
+}
+.reverse{
+    flex-direction: row-reverse;
+}
